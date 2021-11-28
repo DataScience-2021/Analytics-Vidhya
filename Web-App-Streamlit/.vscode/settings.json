@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/nicksson/miniconda3/envs/datascience/bin/python",
+
+    "code-runner.executorMap": {
+        "python": "/home/nicksson/miniconda3/envs/datascience/bin/python",
+    }
+}
